@@ -1,0 +1,8 @@
+{
+  "name": "Nostalgic Mario",
+  "description": "A premium, high-fidelity retro-modern platformer game. Features fluid physics, custom particles, 20 unique levels with diverse environmental themes, procedural synth soundtracks, and responsive mobile and desktop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
